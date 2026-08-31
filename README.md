@@ -1,25 +1,25 @@
 ﻿<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6842FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Sonu;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6842FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Subasish;" alt="Typing SVG"/>
 </h1>
 
 <div align="center">
-  <a href="https://vercel.com/sonu-suman-ojhas-projects" title="Portfolio"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=web&logoColor=white&border_radius=10"/></a>
-  <a href="https://www.linkedin.com/in/sonu-suman-ojha-81a443301/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10"/></a>
-  <a href="https://x.com/SonusumanO" title="X (Twitter)"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&border_radius=10"/></a>
-  <a href="https://www.instagram.com/nxt__sonu__/" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10"/></a>
+  <a href="https://vercel.com/Subasish-dass-projects" title="Portfolio"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=web&logoColor=white&border_radius=10"/></a>
+  <a href="https://www.linkedin.com/in/Subasish-das-81a443301/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10"/></a>
+  <a href="https://x.com/SubasishsumanO" title="X (Twitter)"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&border_radius=10"/></a>
+  <a href="https://www.instagram.com/nxt__Subasish__/" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10"/></a>
   <a href="https://stackoverflow.com/users/26817244"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&border_radius=10"/></a>
-  <a href="https://codepen.io/Sonusuman"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&border_radius=10"/></a>
+  <a href="https://codepen.io/Subasishsuman"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&border_radius=10"/></a>
   <a href="https://www.facebook.com/profile.php?id=148566998800"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&border_radius=10"/></a>
 </div>
 
 ## 👨🏻‍💻 About Me
-<img src="https://github.com/sonusuman147/Github-Profile/blob/main/assets/sonu.png" width="270px" align="right" alt="Coding illustration">
+<img src="https://github.com/Subasishsuman147/Github-Profile/blob/main/assets/Subasish.png" width="270px" align="right" alt="Coding illustration">
 
 ```javascript
-const Sonu = {
+const Subasish = {
     Education: "BTech CSE ",
     Passion: ["Web Development", "Data Science", "Gen AI"],
-    Website: "Sonu.vercel.app",
+    Website: "Subasish.vercel.app",
     Focused: "True"
 };
 ```
@@ -222,20 +222,20 @@ const Sonu = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonusuman147&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonusuman147&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subasishsuman147&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subasishsuman147&layout=compact&theme=github_dark&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonusuman147&theme=github-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subasishsuman147&theme=github-dark&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonusuman147&theme=algolia&row=1&column=7&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Subasishsuman147&theme=algolia&row=1&column=7&no-frame=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonusuman147&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Subasishsuman147&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ## ⌨️ My Coding Stats
@@ -244,7 +244,7 @@ const Sonu = {
 
 ![Code Time](https://img.shields.io/badge/Code%20Time-241%20hrs%2047%20mins-blue?style=for-the-badge)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sonusuman147&label=Profile%20Views&style=for-the-badge&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=Subasishsuman147&label=Profile%20Views&style=for-the-badge&color=0e75b6)
 
 ![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-2.3%20Million%20Lines%20of%20Code-blue?style=for-the-badge)
 
@@ -318,7 +318,7 @@ Java                     3 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/sonusuman147/sonusuman147/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/Subasishsuman147/Subasishsuman147/main/assets/bar_graph.png)
 
 
  Last Updated on 15/12/2025 18:56:39 UTC
@@ -341,7 +341,7 @@ Java                     3 repos             █░░░░░░░░░░�
 
 ## ☕️ Support My Work
 <div align="left">
-  <a href="https://buymeacoffee.com/sonusumanog">
+  <a href="https://buymeacoffee.com/Subasishsumanog">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&border_radius=10" alt="Buy Me A Coffee">
   </a>
 </div>
@@ -352,7 +352,7 @@ Java                     3 repos             █░░░░░░░░░░�
 
   ## 🤝 Connect with the Developer :
 <p align="center">
-<a href="https://www.linkedin.com/in/sonu-suman-ojha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/Subasish-das/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCJfnbctwDxhPVGfRmDnqrrprlvwRLCZBHHbNXcdVsjrQPcrQFqtClKrfmvQqzrCVqTBHnvB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -361,11 +361,11 @@ Java                     3 repos             █░░░░░░░░░░�
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Sonu?label=Follow%90Sonu&style=social" />
+  <img src="https://img.shields.io/github/followers/Subasish?label=Follow%90Subasish&style=social" />
 </p>
 
 <p align="center">
-  <i>💙 Crafted with Passion, Precision & Coffee by <b>Sonu Suman Ojhaa</b> ☕</i>
+  <i>💙 Crafted with Passion, Precision & Coffee by <b>Subasish dasa</b> ☕</i>
 </p>
 
 <div align="center">
