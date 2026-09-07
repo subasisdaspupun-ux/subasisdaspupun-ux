@@ -13,7 +13,7 @@
 </div>
 
 ## 👨🏻‍💻 About Me
-<img src="https://github.com/subasisdaspupun-ux/Github-Profile/blob/main/assets/sonu.png" width="270px" align="right" alt="Coding illustration">
+<img src="https://github.com/subasisdaspupun-ux/subasisdaspupun-ux/blob/main/sonu.png" width="270px" align="right" alt="Coding illustration">
 
 ```javascript
 const Subasish = {
