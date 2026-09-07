@@ -13,7 +13,7 @@
 </div>
 
 ## 👨🏻‍💻 About Me
-<img src="https://github.com/Subasishsuman147/Github-Profile/blob/main/assets/Subasish.png" width="270px" align="right" alt="Coding illustration">
+<img src="https://github.com/subasisdaspupun-ux/Github-Profile/blob/main/assets/sonu.png" width="270px" align="right" alt="Coding illustration">
 
 ```javascript
 const Subasish = {
@@ -222,20 +222,20 @@ const Subasish = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subasishsuman147&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subasishsuman147&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subasisdaspupun-ux&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subasisdaspupun-ux&layout=compact&theme=github_dark&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subasishsuman147&theme=github-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subasisdaspupun-ux&theme=github-dark&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subasishsuman147&theme=algolia&row=1&column=7&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=subasisdaspupun-ux&theme=algolia&row=1&column=7&no-frame=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subasishsuman147&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=subasisdaspupun-ux&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ## ⌨️ My Coding Stats
@@ -244,7 +244,7 @@ const Subasish = {
 
 ![Code Time](https://img.shields.io/badge/Code%20Time-241%20hrs%2047%20mins-blue?style=for-the-badge)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Subasishsuman147&label=Profile%20Views&style=for-the-badge&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=subasisdaspupun-ux&label=Profile%20Views&style=for-the-badge&color=0e75b6)
 
 ![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-2.3%20Million%20Lines%20of%20Code-blue?style=for-the-badge)
 
@@ -318,7 +318,7 @@ Java                     3 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Subasishsuman147/Subasishsuman147/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/subasisdaspupun-ux/subasisdaspupun-ux/main/assets/bar_graph.png)
 
 
  Last Updated on 15/12/2025 18:56:39 UTC
